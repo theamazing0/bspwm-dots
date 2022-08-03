@@ -1,4 +1,4 @@
-# My Dotfiles
+# My Material Darker & Orchis Theme BSPWM Dotfiles
 
 **This is currently just a backup of my *work in progress* dotfiles**
 
