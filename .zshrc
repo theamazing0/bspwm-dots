@@ -113,5 +113,10 @@ export PF_INFO="ascii title os host kernel uptime pkgs memory"
 export PF_ASCII="linux"
 #pfetch
 
+# Android Studio + React Native
+export ANDROID_SDK_ROOT=$HOME/Android/Sdk
+export PATH=$PATH:$ANDROID_SDK_ROOT/emulator
+export PATH=$PATH:$ANDROID_SDK_ROOT/platform-tools
+
 # figlet text
 figlet hello

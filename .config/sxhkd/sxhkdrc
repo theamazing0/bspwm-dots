@@ -143,7 +143,7 @@ super + {Left,Down,Up,Right}
 
 # Rebind Control Keys
 
-# Brightness Brightness
+# Brightness
 XF86MonBrightnessUp 
 	xbacklight +10
 
